@@ -6,11 +6,11 @@ except ImportError:
 
 setuptools.setup(
     name="LibClean", # Replace with your own username
-    version="1.0.0",
-    author="Max Collins",
-    author_email="collinsmax1999@gmail.com",
+    version="1.0.1",
+    author="Max Collins with Andrew Woods",
+    author_email="A.Woods@curtin.edu.au",
     description="A package to read library catalogues and update OldPerth website",
-    url="https://github.com/maxcollins1999/LibClean",
+    url="https://github.com/awoods3d/LibClean",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
